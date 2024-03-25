@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+background-image: url(🔥\ Free\ download\ \ Flat\ Background\ Design\ Landing\ Page\ PNG\ SVG\ and\ Adobe\ XD\ on\ WallpaperSafari.jfif);
+height: 100vh;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+justify-content: center;
+align-items: center;
+/* flex-direction: column; */
+}
+.form-box{
+    width: 50%;
+    height: 60vh;
+ display: flex;
+justify-content: center;
+align-items: center;
+    background-color: aquamarine;
+    border-radius: 8px;
+    padding: 50px;
+}
+.inputField{
+ 
+    width: 90%;
+   
+    /* border: 2px solid red; */
+   
+}
+.inputField input{
+    height: 40px;
+    padding: 6px;
+    border-radius: 4px;
+    /* max-width:400px; */
+   width: 400px;
+    margin: 10px;
+    overflow: hidden;
+    transition: 1s ease;
+    max-height: 40px;
+    border: none;
+    outline: none;
+
+}
+.form-field{
+    /* border: 2px solid green; */
+    height: 50vh;
+}
+.form-field h1{
+
+    text-align: center;
+    text-transform: capitalize;
+    color: green;
+    /* padding-bottom: 30px; */
+}
+.form-box .under-line{
+    height: 4px;
+    width: 20px;
+    background-color: green;
+    text-align: center;
+    /* justify-content: center; */
+    margin: 10px 5px 10px 5px;
+    margin-left: 200px;
+   
+}
+.form-field{
+    /* border :2px solid green; */
+}
+.btns
+{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+   gap: 10px;
+    align-items: center;
+}
+.btns button{
+    background-color: green;
+    border: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 9px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+
+}
